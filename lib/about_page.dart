@@ -327,7 +327,7 @@ class AboutPage extends StatelessWidget {
                   // Copyright
                   Center(
                     child: Text(
-                      '© 2024 UIN STS Jambi',
+                      '© 2025 UIN STS Jambi',
                       style: Theme.of(context).textTheme.bodySmall?.copyWith(
                             color: Colors.grey.shade600,
                           ),

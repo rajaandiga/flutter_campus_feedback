@@ -24,3 +24,4 @@ flutter:
 
   assets:
     - assets/images/logo_uin.png
+    - assets/images/flutter_icon.png

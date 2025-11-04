@@ -65,7 +65,7 @@ class _HomePageState extends State<HomePage> {
                       ),
                       child: ClipOval(
                         child: Image.asset(
-                          'assets/images/logo_uin.png',
+                          'assets/images/flutter_icon.png',
                           fit: BoxFit.cover,
                           width: 120,
                           height: 120,
